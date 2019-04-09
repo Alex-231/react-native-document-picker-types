@@ -1,0 +1,19 @@
+{
+  "name": "@types/react-native-document-picker",
+  "version": "3.0.0",
+  "description": "Types for react-native-document-picker by @Elyx0.",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-231/types_react-native-document-picker.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Alex-231",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-231/types_react-native-document-picker/issues"
+  },
+  "homepage": "https://github.com/Alex-231/types_react-native-document-picker#readme"
+}
